@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo02_conversions/1.0.0": {
+        "runtime": {
+          "Exo02_conversions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo02_conversions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

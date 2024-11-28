@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo18\bin\Debug\net8.0\Exo18.exe
+G:\C#\Exercices_Bases\Exo18\bin\Debug\net8.0\Exo18.deps.json
+G:\C#\Exercices_Bases\Exo18\bin\Debug\net8.0\Exo18.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo18\bin\Debug\net8.0\Exo18.dll
+G:\C#\Exercices_Bases\Exo18\bin\Debug\net8.0\Exo18.pdb
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.dll
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\refint\Exo18.dll
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.pdb
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\Exo18.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo18\obj\Debug\net8.0\ref\Exo18.dll

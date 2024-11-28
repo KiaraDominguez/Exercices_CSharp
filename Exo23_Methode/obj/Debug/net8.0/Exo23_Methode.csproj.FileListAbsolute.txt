@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo23_Methode\bin\Debug\net8.0\Exo23_Methode.exe
+G:\C#\Exercices_Bases\Exo23_Methode\bin\Debug\net8.0\Exo23_Methode.deps.json
+G:\C#\Exercices_Bases\Exo23_Methode\bin\Debug\net8.0\Exo23_Methode.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo23_Methode\bin\Debug\net8.0\Exo23_Methode.dll
+G:\C#\Exercices_Bases\Exo23_Methode\bin\Debug\net8.0\Exo23_Methode.pdb
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.dll
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\refint\Exo23_Methode.dll
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.pdb
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\Exo23_Methode.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo23_Methode\obj\Debug\net8.0\ref\Exo23_Methode.dll

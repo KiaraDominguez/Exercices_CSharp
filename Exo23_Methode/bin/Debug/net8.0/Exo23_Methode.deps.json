@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo23_Methode/1.0.0": {
+        "runtime": {
+          "Exo23_Methode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo23_Methode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

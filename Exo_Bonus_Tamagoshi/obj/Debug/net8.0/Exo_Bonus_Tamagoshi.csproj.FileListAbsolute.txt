@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\bin\Debug\net8.0\Exo_Bonus_Tamagoshi.exe
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\bin\Debug\net8.0\Exo_Bonus_Tamagoshi.deps.json
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\bin\Debug\net8.0\Exo_Bonus_Tamagoshi.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\bin\Debug\net8.0\Exo_Bonus_Tamagoshi.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\bin\Debug\net8.0\Exo_Bonus_Tamagoshi.pdb
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\refint\Exo_Bonus_Tamagoshi.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.pdb
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\Exo_Bonus_Tamagoshi.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Tamagoshi\obj\Debug\net8.0\ref\Exo_Bonus_Tamagoshi.dll

@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo24_Enum\bin\Debug\net8.0\Exo24_Enum.exe
+G:\C#\Exercices_Bases\Exo24_Enum\bin\Debug\net8.0\Exo24_Enum.deps.json
+G:\C#\Exercices_Bases\Exo24_Enum\bin\Debug\net8.0\Exo24_Enum.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo24_Enum\bin\Debug\net8.0\Exo24_Enum.dll
+G:\C#\Exercices_Bases\Exo24_Enum\bin\Debug\net8.0\Exo24_Enum.pdb
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.dll
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\refint\Exo24_Enum.dll
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.pdb
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\Exo24_Enum.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo24_Enum\obj\Debug\net8.0\ref\Exo24_Enum.dll

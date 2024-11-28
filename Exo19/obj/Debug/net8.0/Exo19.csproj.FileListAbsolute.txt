@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo19\bin\Debug\net8.0\Exo19.exe
+G:\C#\Exercices_Bases\Exo19\bin\Debug\net8.0\Exo19.deps.json
+G:\C#\Exercices_Bases\Exo19\bin\Debug\net8.0\Exo19.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo19\bin\Debug\net8.0\Exo19.dll
+G:\C#\Exercices_Bases\Exo19\bin\Debug\net8.0\Exo19.pdb
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.dll
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\refint\Exo19.dll
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.pdb
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\Exo19.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo19\obj\Debug\net8.0\ref\Exo19.dll

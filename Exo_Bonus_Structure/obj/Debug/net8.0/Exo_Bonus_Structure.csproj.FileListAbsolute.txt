@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\bin\Debug\net8.0\Exo_Bonus_Structure.exe
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\bin\Debug\net8.0\Exo_Bonus_Structure.deps.json
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\bin\Debug\net8.0\Exo_Bonus_Structure.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\bin\Debug\net8.0\Exo_Bonus_Structure.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\bin\Debug\net8.0\Exo_Bonus_Structure.pdb
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\refint\Exo_Bonus_Structure.dll
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.pdb
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\Exo_Bonus_Structure.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo_Bonus_Structure\obj\Debug\net8.0\ref\Exo_Bonus_Structure.dll

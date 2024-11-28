@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo22_Structure_2\bin\Debug\net8.0\Exo22_Structure_2.exe
+G:\C#\Exercices_Bases\Exo22_Structure_2\bin\Debug\net8.0\Exo22_Structure_2.deps.json
+G:\C#\Exercices_Bases\Exo22_Structure_2\bin\Debug\net8.0\Exo22_Structure_2.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo22_Structure_2\bin\Debug\net8.0\Exo22_Structure_2.dll
+G:\C#\Exercices_Bases\Exo22_Structure_2\bin\Debug\net8.0\Exo22_Structure_2.pdb
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.dll
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\refint\Exo22_Structure_2.dll
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.pdb
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\Exo22_Structure_2.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo22_Structure_2\obj\Debug\net8.0\ref\Exo22_Structure_2.dll

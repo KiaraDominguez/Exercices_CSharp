@@ -1,0 +1,14 @@
+G:\C#\Exercices_Bases\Exo02_conversions\bin\Debug\net8.0\Exo02_conversions.exe
+G:\C#\Exercices_Bases\Exo02_conversions\bin\Debug\net8.0\Exo02_conversions.deps.json
+G:\C#\Exercices_Bases\Exo02_conversions\bin\Debug\net8.0\Exo02_conversions.runtimeconfig.json
+G:\C#\Exercices_Bases\Exo02_conversions\bin\Debug\net8.0\Exo02_conversions.dll
+G:\C#\Exercices_Bases\Exo02_conversions\bin\Debug\net8.0\Exo02_conversions.pdb
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.AssemblyInfoInputs.cache
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.AssemblyInfo.cs
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.csproj.CoreCompileInputs.cache
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.dll
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\refint\Exo02_conversions.dll
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.pdb
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\Exo02_conversions.genruntimeconfig.cache
+G:\C#\Exercices_Bases\Exo02_conversions\obj\Debug\net8.0\ref\Exo02_conversions.dll
